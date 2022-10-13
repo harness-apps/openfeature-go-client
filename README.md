@@ -1,4 +1,4 @@
-# Openfeature GO Client for Harness Feature Flags
+# Openfeature GO Provider for Harness Feature Flags
 
 This repository contains all the details that'll help you to develop OpenFeature GO client for Harness Feature Flags! 
 
